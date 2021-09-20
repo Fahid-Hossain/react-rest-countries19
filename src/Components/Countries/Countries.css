@@ -1,0 +1,8 @@
+.countriesStyle{
+    color:rgb(76, 0, 255);
+}
+.countriesAll{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
